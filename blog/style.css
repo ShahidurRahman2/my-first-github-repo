@@ -32,3 +32,12 @@ h1{
     float: left;
 
 }
+ul .menu1 li{
+    display: flex;
+    background-color: bisque;
+    padding: 1px;
+    
+}
+ul .menu1:hover{
+    background-color: rgb(17, 17, 183);
+}
