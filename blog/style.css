@@ -5,7 +5,30 @@ h1{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     
 }
+.api{
+    
+    height: 700px;
+    max-width: 1600px;
+    background: gray;
+}
 .api img{
-    height: 400px;
-    width: 800px;
+    height: 250px;
+    width: 300px;
+   position: relative;
+    float: left;
+    margin-left: 20px;
+}
+.api button{
+    background: tomato;
+    border-radius: 15px;
+    border-color: blueviolet;
+    color: aqua;
+   padding: 10px;
+    margin-top: 250px;
+    /* margin-top: 200px; */
+    margin-left: 50px;
+    position: absolute;
+  
+    float: left;
+
 }
